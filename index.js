@@ -10,6 +10,9 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 
     buttonAnimation(buttonInnerHTML);
 
+    console.log("gjfkjkjk");
+    
+
   });
 
 }
